@@ -1,5 +1,5 @@
 # EX-NO-6-Pseudo-Random-Number
-
+## Date: 10.3.25
 # AIM: 
 Implementation of Pseudorandom Number Generation Using Standard library
 
